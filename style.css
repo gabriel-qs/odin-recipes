@@ -1,0 +1,29 @@
+/*Estilizando o corpo das páginas*/
+body{
+	font-family: Arial, Verdana, Sans-serif;
+	background-color: black;
+	color: white;
+	text-align: justify;
+	font-size: 18px;
+}
+
+
+h1, h2 {
+	font-family: "Times New Roman", Georgia, Serif;
+}
+
+h1 {
+	font-size: 40px;
+}
+
+h2 {
+	color: blue;
+	font-size: 22px;
+}
+
+/*Centralizando as imagens (.father) e o menu (.center) */
+h1, .father, .center {
+	text-align: center;
+}
+
+
